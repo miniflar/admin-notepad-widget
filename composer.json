@@ -1,0 +1,51 @@
+{
+    "name": "miniflar/admin-notepad-widget",
+    "description": "Adds a notepad widget to your Admin Dashboard.",
+    "keywords": [
+        "flarum",
+        "admin",
+        "notepad",
+        "flarum-admin",
+        "flarum-admin-notepad"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/miniflar/admin-notepad-widget/issues",
+        "source": "https://github.com/miniflar/admin-notepad-widget",
+        "forum": "https://discuss.flarum.org/d/{PUT_DISCUSSION_ID_HERE}"
+    },
+    "funding": [
+        {
+            "type": "other",
+            "url": "https://paypal.me/ralkage"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.16"
+    },
+    "authors": [
+        {
+            "name": "Christian Lopez",
+            "email": "me@ralkage.com",
+            "homepage": "https://ralkage.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FoF\\AdminNotepadWidget\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "MiniFLAR Admin Notepad Widget",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-clipboard",
+                "backgroundColor": "#5E247E",
+                "color": "#EB6529"
+            }
+        }
+    }
+}
