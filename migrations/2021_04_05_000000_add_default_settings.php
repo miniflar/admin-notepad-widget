@@ -12,5 +12,5 @@
 use Flarum\Database\Migration;
 
 return Migration::addSettings([
-    'miniflar-admin-notepad-widget.widget_order' => 29
+    'miniflar-admin-notepad-widget.widget_order' => 29,
 ]);
