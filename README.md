@@ -38,7 +38,7 @@ php flarum cache:clear
 
 - [Packagist](https://packagist.org/packages/miniflar/admin-notepad-widget)
 - [GitHub](https://github.com/miniflar/admin-notepad-widget)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
+- [Discuss](https://discuss.flarum.org/d/27105)
 - [Donate](https://paypal.me/ralkage) (Optional)
   - Donations allow developers such as myself to be able to purchase new learning  resources, hardware, donate to charitable organizations, or even contribute to the [Flarum Foundation](https://opencollective.com/flarum) :D
 
