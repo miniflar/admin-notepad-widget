@@ -1,8 +1,5 @@
-# MiniFLAR Admin Notepad Widget
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/miniflar/admin-notepad-widget.svg)](https://packagist.org/packages/miniflar/admin-notepad-widget) [![Total Downloads](https://img.shields.io/packagist/dt/miniflar/admin-notepad-widget.svg)](https://packagist.org/packages/miniflar/admin-notepad-widget) [![PayPal](https://img.shields.io/badge/paypal-ralkage-4cl?style=flat&logo=paypal)](https://paypal.me/ralkage)
-
-A [Flarum](http://flarum.org) extension. Adds an notepad widget to your Admin Dashboard.
+[![miniFLAR Admin Notepad Widget](https://extiverse.com/extension/miniflar/admin-notepad-widget/open-graph-image)](https://extiverse.com/extension/miniflar/admin-notepad-widget)
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge) [![Latest Stable Version](https://img.shields.io/packagist/v/miniflar/admin-notepad-widget.svg?style=for-the-badge)](https://packagist.org/packages/miniflar/admin-notepad-widget) [![PayPal](https://img.shields.io/badge/paypal-ralkage-4cl?style=for-the-badge&logo=paypal)](https://paypal.me/ralkage)
 
 ### Installation
 
