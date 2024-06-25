@@ -14,9 +14,10 @@ namespace MiniFLAR\AdminNotepadWidget;
 use Flarum\Extend;
 
 return [
-
     (new Extend\Frontend('admin'))
-        ->js(__DIR__.'/js/dist/admin.js')
-        ->css(__DIR__.'/resources/less/admin.less'),
-    new Extend\Locales(__DIR__.'/resources/locale'),
+        ->js(__DIR__ . '/js/dist/admin.js')
+        ->css(__DIR__ . '/resources/less/admin.less'),
+    new Extend\Locales(__DIR__ . '/resources/locale'),
+    (new Extend\Settings())
+        ->default('miniflar-admin-notepad-widget.widget_order', 29)
 ];
